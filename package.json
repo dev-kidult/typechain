@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "typescript with blockchain",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/dev-kidult/typechain",
+  "author":"dev-kidult"
+}
